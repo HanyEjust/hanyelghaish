@@ -1,0 +1,30 @@
+window.SUPERVISION = {
+  mentoring: [
+    { name: "Wael Abdelkader Elsawy Shehab Eddin", role: "Ph.D. Student", institution: "Tanta University", years: "2025–2026", topic: "Spatial and Temporal Correlations in Hospital Admission Prediction with Federated Learning and Membership Inference Attack (MIA) Challenges" },
+    { name: "Hend Maher Wahba Obaya", role: "Master's Student", institution: "Tanta University", years: "2025–2026", topic: "Facial Expression Recognition Based on Deep Learning" },
+    { name: "Aliaa Mohamed", role: "Ph.D. Student", institution: "Tanta University", years: "2024–2025", topic: "Adaptive Type-3 Fuzzy Logic Estimator-Based Continuous Sliding Mode Control for Ill-Defined Nonlinear Systems" },
+    { name: "Rania Mahmoud Elhaw", role: "Master's Student", institution: "Tanta University", years: "2024–2025", topic: "An Adaptive Mobile Robot Localization and Navigation Using Machine Learning" },
+    { name: "Esraa Kamal Sallam", role: "Master's Student", institution: "Tanta University", years: "2024–2025", topic: "Optimization Algorithm Enhancement and Application in Deep Learning for Medical Diagnosis" },
+    { name: "Ahmed Aman", role: "Master's Student", institution: "Tanta University", years: "2024–2025", topic: "Predicting Performance of Small Desalination Plants Powered by Renewable Energy Using Artificial Intelligence" },
+    { name: "Sara Abd Elhleem", role: "Master's Student", institution: "Tanta University", years: "2024–2025", topic: "Optimization of Virtual Machine Placements in Cloud Environments" },
+    { name: "Sondos Taha", role: "Master's Student", institution: "Tanta University", years: "2023–2024", topic: "Deep Learning-Based Approach for Multiple Myeloma Detection" },
+    { name: "Mona Tarek", role: "Master's Student", institution: "Tanta University", years: "2023–2024", topic: "A Neuro-Based Adaptive Control Algorithm for Nonlinear Systems" },
+    { name: "Shimaa Fuad", role: "Master's Student", institution: "Tanta University", years: "2023–2024", topic: "Leveraging Machine Learning for Early Detection of Autism Spectrum Disorder" },
+    { name: "Mohamed Yousry", role: "Master's Student", institution: "Tanta University", years: "2023–2024", topic: "A Fast and Effective System for Pain Identification Based on Modern Machine Learning Algorithms" },
+    { name: "Nagah Maher", role: "Master's Student", institution: "Tanta University", years: "2023–2024", topic: "Continuous Sliding Mode Control for Robotic Systems Using Machine Learning" },
+    { name: "Haithm Meqresh", role: "Master's Student", institution: "Tanta University", years: "2022–2023", topic: "Intrusion Detection in Cyber-Physical Systems Using Machine Learning" }
+  ],
+  theses: [
+    { title: "An Adaptive Mobile Robot Localization and Navigation Using Machine Learning", degree: "M.Sc.", years: "2024–2025", dept: "Computer & Automatic Control, Faculty of Engineering, Tanta University", student: "Eng. Rania Mahmoud Elhaw", status: "in-progress", note: "" },
+    { title: "Optimization Algorithm Enhancement and Application in Deep Learning for Medical Diagnosis", degree: "M.Sc.", years: "2024–2025", dept: "Computer & Automatic Control, Faculty of Engineering, Tanta University", student: "Eng. Esraa Kamal Sallam", status: "in-progress", note: "" },
+    { title: "Predicting Performance of Small Desalination Plants Powered by Renewable Energy Resources Using Artificial Intelligence Techniques", degree: "M.Sc.", years: "2023–2024", dept: "Mechanical Power Dept., Faculty of Engineering, Tanta University", student: "Eng. Ahmed Aman", status: "in-progress", note: "One review paper submitted; another in progress." },
+    { title: "Optimization of Virtual Machine Placements in Cloud Environments", degree: "M.Sc.", years: "2023", dept: "Computer & Automatic Control, Faculty of Engineering, Tanta University", student: "Eng. Sara Abd Elhleem", status: "in-progress", note: "" },
+    { title: "Deep Learning-Based Approach for Multiple Myeloma Detection", degree: "M.Sc.", years: "2023", dept: "Computer & Automatic Control, Faculty of Engineering, Tanta University", student: "Eng. Sondos Taha", status: "in-progress", note: "" },
+    { title: "A Neuro-Based Adaptive Control Algorithms for Nonlinear Systems", degree: "M.Sc.", years: "2023", dept: "Computer & Automatic Control, Faculty of Engineering, Tanta University", student: "Eng. Mona Tarek", status: "in-progress", note: "" },
+    { title: "Adaptive Type-3 Fuzzy Logic Estimator-Based Continuous Sliding Mode Control for Ill-Defined Nonlinear Systems", degree: "Ph.D.", years: "2023", dept: "Computer & Automatic Control, Faculty of Engineering, Tanta University", student: "Eng. Aliaa Mohamed", status: "in-progress", note: "" },
+    { title: "Leveraging Machine Learning for Early Detection of Autism Spectrum Disorder", degree: "M.Sc.", years: "2023", dept: "Computer & Automatic Control, Faculty of Engineering, Tanta University", student: "Eng. Shimaa Fuad", status: "in-progress", note: "Two journal papers published in JER; another in progress." },
+    { title: "A Fast and Effective System for Pain Identification Based on Modern Machine Learning Algorithms", degree: "M.Sc.", years: "2023", dept: "Computer & Automatic Control, Faculty of Engineering, Tanta University", student: "Eng. Mohamed Yousry", status: "completed", note: "One Q1 WoS journal paper published; another under revision in a Q1 Scopus journal." },
+    { title: "Continuous Sliding Mode Control for Robotic Systems Using Machine Learning", degree: "M.Sc.", years: "2023", dept: "Computer & Automatic Control, Faculty of Engineering, Tanta University", student: "Eng. Nagah Maher", status: "completed", note: "One Q1 journal paper published." },
+    { title: "Intrusion Detection in Cyber-Physical Systems Using Machine Learning", degree: "M.Sc.", years: "2022", dept: "Computer & Automatic Control, Faculty of Engineering, Tanta University", student: "Eng. Haithm Meqresh", status: "completed", note: "Two Q2 journal papers extracted." }
+  ]
+};
